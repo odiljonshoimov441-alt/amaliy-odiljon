@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background:rgb(255 8 0 / 0.43);
+}
+
+.divking {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: end;
+}
+.p1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+.div1 {
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    height:250px;
+    width: 250px;
+
+}
+.div2 {
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    height: 300px;
+    width: 250px;
+
+}
+.div3 {
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    height: 350px;
+    width: 250px;
+}
