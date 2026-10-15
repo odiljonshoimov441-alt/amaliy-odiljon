@@ -8,7 +8,7 @@ body {
 .containers {
     display: flex;
     gap: 20px;
-    justify-content: center;git init
+    justify-content: center;
 }
 
 .container {

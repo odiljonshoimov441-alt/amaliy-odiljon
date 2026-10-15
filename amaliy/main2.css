@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    padding: 30px 20px;
+}
+.wrapper {
+    width: 1400px;
+    margin: 0 auto;
+}
+.wrapper h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.wrapper .sub {
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    margin: 12px 0 50px;
+}
+.cards {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+.card {
+    flex: 1;
+    background: white;
+    border-radius: 16px;
+}
+.card:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+.card .img {
+    width: 100%;
+    height: 300px;
+    display: block;
+}
+
+.heart.active {
+    color: red;
+}
+.body {
+    padding: 25px;
+}
+.tag {
+    background: #eef0f3;
+    color: #555;
+    font-size: 16px;
+    padding: 8px 14px;
+    border-radius: 8px;
+}
+.title {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 25px 0 15px;
+    height: 60px;
+}
+.title.blue {
+    color: #1e88e5;
+}
+.date {
+    font-size: 18px;
+    color: gray;
+    margin-bottom: 8px;
+}
+.phone {
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 25px;
+}
+.price {
+    font-size: 32px;
+    font-weight: bold;
+}
+.price span {
+    font-size: 20px;
+    font-weight: normal;
+    color: #1e88e5;
+}
