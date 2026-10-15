@@ -1,45 +1,72 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 body {
-    background:rgb(255 8 0 / 0.43);
+    font-family: sans-serif;
+    background: #fff;
+    margin: 0;
+    padding: 40px;
 }
 
-.divking {
+.containers {
+    display: flex;
+    gap: 20px;
+    justify-content: center;git init
+}
+
+.container {
+    width: 240px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+}
+
+.container-img {
+    height: 150px;
     display: flex;
     justify-content: center;
-    gap: 20px;
-    align-items: end;
-}
-.p1 {
-    text-align: center;
-    margin-top: 50px;
-    font-size: 50px;
-    color: white;
+    align-items: flex-end;
+    border-radius: 6px 6px;
 }
 
-.div1 {
-    background-color: white;
-    border-radius: 5px;
-    text-align: center;
-    height:250px;
-    width: 250px;
-
+.container-img  {
+    height: 140px;
 }
-.div2 {
-    background-color: white;
-    border-radius: 5px;
-    text-align: center;
-    height: 300px;
-    width: 250px;
 
+.container-body {
+    padding: 15px;
 }
-.div3 {
-    background-color: white;
-    border-radius: 5px;
-    text-align: center;
-    height: 350px;
-    width: 250px;
+
+.tag {
+    display: inline-block;
+    font-size: 10px;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+.green {
+    background: #1fc799;
+}
+
+.blue {
+    background: #5b7cfa;
+}
+
+.orange {
+    background: #f5963c;
+}
+
+.container-body h3 {
+    font-size: 14px;
+    margin: 15px 0 12px;
+    color: #222;
+}
+
+.container-body p {
+    font-size: 12px;
+    color: #888;
+    margin: 0;
+}
+
+.price {
+    color: #e8344e;
+    font-weight: bold;
 }

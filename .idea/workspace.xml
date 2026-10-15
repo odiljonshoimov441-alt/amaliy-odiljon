@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aded3af0-9d5d-427a-91ae-6bf9269fc0b5" name="Changes" comment="" />
+    <list default="true" id="aded3af0-9d5d-427a-91ae-6bf9269fc0b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Brookiyn Simons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Cody Fisher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Dianne Rusell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Guy HawKins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Jerome Bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Kathryn Murphy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Kristin Watson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Leslie Alexandr LI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amaliy/img/Marvin McKinney.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/amaliy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaliy/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/amaliy/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,34 +31,43 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Jot4Tjo1ld30pl1xz6yTE8qzeD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANUBIS/OneDrive/Рабочий стол/amaliy odiljon/amaliy/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/ANUBIS/OneDrive/Рабочий стол/amaliy odiljon/amaliy/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\amaliy odiljon\amaliy\img" />
@@ -78,7 +100,10 @@
       <workItem from="1791391811664" duration="41000" />
       <workItem from="1791392005176" duration="10000" />
       <workItem from="1791711259171" duration="7000" />
-      <workItem from="1791804423839" duration="2468000" />
+      <workItem from="1791804423839" duration="3126000" />
+      <workItem from="1791967977636" duration="839000" />
+      <workItem from="1791978404652" duration="5906000" />
+      <workItem from="1792065887189" duration="4563000" />
     </task>
     <servers />
   </component>
