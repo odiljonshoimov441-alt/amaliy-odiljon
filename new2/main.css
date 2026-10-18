@@ -7,14 +7,12 @@
     color: white;
     padding:20px;
     margin-left:640px;
-    margin-top:80px;
+    margin-top:60px;
 }
 .img {
-    position: relative;
-    left:95px;
-    top:10px;
+
     border-radius: 50%;
-    border: 5px solid aqua;
+    border: 2px solid aqua;
 }
 .button {
 
@@ -30,17 +28,12 @@
         font-size:26px;
 }
 .name {
-    position: relative;
-    left:70px;
-    top:20px;
     color: #7fc8c4;
     font-size: 18px;
 }
 
 .role {
-    position: relative;
-    left:70px;
-    top:30px;
+
     color: #fff;
     font-style: italic;
     font-size: 14px;
@@ -57,7 +50,8 @@
     position: relative;
     margin-bottom: 60px;
     padding-bottom: 30px;
-    border-shadow: 5px solid white;
+    display: inline-block;
+    text-align: center;
     background-color: #0b3b3c;
     width: 250px;
     height: 200px;
@@ -65,8 +59,8 @@
 }
 .container__box__two {
     position: relative;
-    margin-bottom: 60px;
-    padding-bottom: 30px;
+    display: inline;
+    text-align: start;
     background: #002528;
     width:250px;
     height:200px;
