@@ -33,7 +33,7 @@
 }
 
 .role {
-
+    margin-top: 10px;
     color: #fff;
     font-style: italic;
     font-size: 14px;
@@ -41,8 +41,11 @@
 
 
 .container__box {
+    width: 1024px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     margin:0;
     gap:40px;
 }
