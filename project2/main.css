@@ -16,16 +16,16 @@
 }
 .button {
 
-        position: absolute;
-        left: 50%;
-        margin-left: -22px;
-        bottom: -22px;
-        border:1px solid black;
-        border-radius: 50%;
-        width:44px;
-        height:44px;
-        background:indianred;
-        font-size:26px;
+    position: absolute;
+    left: 50%;
+    margin-left: -22px;
+    bottom: -22px;
+    border:1px solid black;
+    border-radius: 50%;
+    width:44px;
+    height:44px;
+    background:indianred;
+    font-size:26px;
 }
 .name {
     color: #7fc8c4;
@@ -33,7 +33,7 @@
 }
 
 .role {
-    margin-top: 10px;
+
     color: #fff;
     font-style: italic;
     font-size: 14px;
@@ -41,12 +41,10 @@
 
 
 .container__box {
-    width: 1024px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    margin:0;
+    margin:auto;
+
     gap:40px;
 }
 .container__box__one {

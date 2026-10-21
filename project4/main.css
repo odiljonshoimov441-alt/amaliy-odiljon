@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.stories {
+    position: relative;
+    overflow: hidden;
+    background: #004047;
+    padding: 100px 60px 120px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+.corner {
+    position: absolute;
+}
+
+.corner-top {
+    top: 0;
+    left: 0;
+}
+
+.corner-bottom {
+    bottom: 0;
+    right: 0;
+}
+
+.stories-title {
+    position: relative;
+    max-width: 650px;
+    margin: 0 auto 90px;
+    color: #fff;
+    font-size: 40px;
+    line-height: 1.2;
+}
+
+.stories-title span {
+    color: #7ecdcc;
+}
+
+.cards {
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    vertical-align: top;
+    width: 28%;
+    min-width: 250px;
+    margin: 0 15px 60px;
+}
+
+.text {
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.7;
+    margin-bottom: 28px;
+}
+
+.name {
+    color: #7ecdcc;
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+
+.role {
+    color: #fff;
+    font-size: 13px;
+    font-style: italic;
+    margin-bottom: 28px;
+}
+
+.avatar {
+    display: block;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
